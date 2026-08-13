@@ -22,7 +22,7 @@ def format(
 	(
 		pd.read_excel(in_file, usecols=columnas)
 		.dropna(how='any')
-		.to_csv(out_file)
+		.to_csv(out_file, index=False)
 	)
 
 if __name__ == "__main__":
