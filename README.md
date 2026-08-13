@@ -11,7 +11,7 @@ Por estas razones creé este pequeño script que automatiza en buena parte el pr
 
 ## Uso
 
-1. Copie este repositorio `git clone ...`, `cd FormateadorListasEmatricula`. Si no cuenta con `git` instalado, puede bajar este repositorio manualmente en la parte superior de esta página.
+1. Copie este repositorio `git clone https://github.com/felimomo/FormateadorListasEmatricula.git`, `cd FormateadorListasEmatricula`. Si no cuenta con `git` instalado, puede bajar este repositorio manualmente en la parte superior de esta página.
 2. Baje sus listas de clase en el login administrativo de ematrícula
 3. Mueva los archivos al folder `FormateadorListasEmatricula / Input`
 4. Instale dependencias `pip install -r requirements.txt`
